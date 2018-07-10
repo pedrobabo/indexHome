@@ -1,0 +1,33 @@
+.full-high {
+	height:100%;
+}
+.center-wh {
+	width:70%;
+	height: 50%;
+}
+.avatar {
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+	margin:auto;
+	margin-bottom: 30px;
+	background:url(../../static/images/home.jpg) no-repeat center;
+	background-size: cover;
+	overflow: hidden;
+}
+.mar {
+	margin: 10px 0 0 10px;
+}
+.txt {
+	font-size: 20px;
+	font-family: Microsoft YaHei;
+	color: white;
+	text-align: center;
+	overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+}
+.large-txt {
+	font-size: 30px;
+	font-weight: bold;
+}

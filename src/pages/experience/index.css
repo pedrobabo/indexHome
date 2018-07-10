@@ -1,0 +1,36 @@
+.full-high {
+	height:100%;
+}
+.txt {
+	font-size: 20px;
+	font-family: Microsoft YaHei;
+	color: white;
+	text-align: center;
+	overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+}
+.large-txt {
+	font-size: 30px;
+	font-weight: bold;
+}
+.timeline-txt {
+	color:#000 !important;
+	/*font-size: 16px !important;*/
+}
+.padc {
+	padding:20px 0;
+}
+.padrl{
+	padding:0 20px;
+}
+.ant-timeline-item-head-custom {
+	padding: 0;
+	border-radius: 50%;
+}
+.ant-timeline-item-head-yellow {
+	color:#fed136;
+}
+.marb {
+	margin-bottom: 20px;
+}

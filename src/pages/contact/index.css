@@ -1,0 +1,66 @@
+.full-high {
+	height:100%;
+}
+.cont-high {
+	height:95%;
+}
+.foot-high {
+	height:5%;
+}
+.txt {
+	font-size: 20px;
+	font-family: Microsoft YaHei;
+	color: white;
+	text-align: center;
+	overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+}
+.foot-txt {
+	font-size: 16px;
+	color: #333;
+}
+.img-demo {
+	width:200px;
+	height:100px;
+	border-radius: 10px;
+	margin:auto;
+	margin-bottom: 30px;
+	background-size: cover;
+	overflow: hidden;
+}
+.happy-time {
+	background:url(../../static/images/demo1.png) no-repeat center;
+}
+.react-spa {
+	background:url(../../static/images/demo2.png) no-repeat center;
+}
+.large-txt {
+	font-size: 30px;
+	font-weight: bold;
+}
+.padc {
+	padding:20px 0;
+}
+.padrl{
+	padding:0 20px;
+}
+.marb {
+	margin-bottom: 20px;
+}
+.pad-icon {
+	padding-top: 30px;
+}
+.happy-txt {
+	color:#ee1557;
+}
+.spa-txt {
+	color:#0d3bb2;
+}
+.info-txt {
+	font-size: 16px;
+	/*color:#0d3bb2;*/
+}
+.hover:hover {
+	cursor:pointer;
+}
