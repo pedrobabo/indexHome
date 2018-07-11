@@ -9,7 +9,13 @@ export default class Contact extends Component {
       <div className="full-high">
   			<Row type="flex" justify="center" align="middle" className="cont-high padc">
           <Col span={8} className="full-high padrl">
-            <div className="txt large-txt marb">小作品</div>
+            <div className="txt large-txt marb">作品展示</div>
+            <div className="txt marb info-txt">
+              由于工作项目都是社保内网上线
+            </div>
+            <div className="txt marb info-txt">
+              故展示自己学习react的两个小作品
+            </div>
             <div className="txt marb info-txt">
               (React全家桶+Ant Design+webpack构建的综合运用)
             </div>
