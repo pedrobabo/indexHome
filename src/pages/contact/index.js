@@ -20,11 +20,11 @@ export default class Contact extends Component {
               (React全家桶+Ant Design+webpack构建的综合运用)
             </div>
             <div className="txt marb happy-txt">快乐时光</div>
-            <a href="https://pedrobabo.github.io/happy-time/index.html">
+            <a href="http://www.chenjirong.cn/happy-time/index.html">
               <div className="img-demo happy-time hover"></div>
             </a>
             <div className="txt marb spa-txt">antd后台管理系统</div>
-            <a href="https://pedrobabo.github.io/antd-admin/index.html">
+            <a href="http://www.chenjirong.cn/antd-admin/index.html">
               <div className="img-demo react-spa hover"></div>
             </a>
             <Row className="pad-icon">
